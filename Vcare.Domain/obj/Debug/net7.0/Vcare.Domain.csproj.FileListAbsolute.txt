@@ -1,0 +1,11 @@
+/Users/sushantshrestha/RiderProjects/Remote_Medicare/Vcare.Domain/bin/Debug/net7.0/Vcare.Domain.deps.json
+/Users/sushantshrestha/RiderProjects/Remote_Medicare/Vcare.Domain/bin/Debug/net7.0/Vcare.Domain.dll
+/Users/sushantshrestha/RiderProjects/Remote_Medicare/Vcare.Domain/bin/Debug/net7.0/Vcare.Domain.pdb
+/Users/sushantshrestha/RiderProjects/Remote_Medicare/Vcare.Domain/obj/Debug/net7.0/Vcare.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sushantshrestha/RiderProjects/Remote_Medicare/Vcare.Domain/obj/Debug/net7.0/Vcare.Domain.AssemblyInfoInputs.cache
+/Users/sushantshrestha/RiderProjects/Remote_Medicare/Vcare.Domain/obj/Debug/net7.0/Vcare.Domain.AssemblyInfo.cs
+/Users/sushantshrestha/RiderProjects/Remote_Medicare/Vcare.Domain/obj/Debug/net7.0/Vcare.Domain.csproj.CoreCompileInputs.cache
+/Users/sushantshrestha/RiderProjects/Remote_Medicare/Vcare.Domain/obj/Debug/net7.0/Vcare.Domain.dll
+/Users/sushantshrestha/RiderProjects/Remote_Medicare/Vcare.Domain/obj/Debug/net7.0/refint/Vcare.Domain.dll
+/Users/sushantshrestha/RiderProjects/Remote_Medicare/Vcare.Domain/obj/Debug/net7.0/Vcare.Domain.pdb
+/Users/sushantshrestha/RiderProjects/Remote_Medicare/Vcare.Domain/obj/Debug/net7.0/ref/Vcare.Domain.dll
